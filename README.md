@@ -36,8 +36,7 @@
 - [Final Project](https://github.com/ungureancatalina/atestat)  
   My high school final project.
 
-
-## Tech Stack
+---
 
 ### Languages:
 <table>
@@ -70,6 +69,18 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Assembly_language_icon.png" width="48" height="48" alt="Assembly" />
+      <br>Assembly
+    </td>
   </tr>
 </table>
 
@@ -77,8 +88,8 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="48" height="48" alt="SQL Server" />
@@ -92,14 +103,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img src="https://hibernate.org/images/hibernate_logo_whitebkg.svg" width="48" height="48" alt="Hibernate" />
-      <br>Hibernate
-    </td>
   </tr>
 </table>
 
-### UI/UX Frameworks:
+### UI Frameworks:
 <table>
   <tr>
     <td align="center" width="96">
@@ -110,19 +117,17 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/JavaFX_Logo.png" width="48" height="48" alt="JavaFX" />
       <br>JavaFX
     </td>
-  </tr>
-</table>
-
-### Design:
-<table>
-  <tr>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/A/aseprite-logo-FAD3CA6FC0-seeklogo.com.png" width="48" height="48" alt="Aseprite" />
-      <br>Aseprite
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+      <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="48" height="48" alt="Figma" />
-      <br>Figma
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt=".NET" />
+      <br>.NET
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
     </td>
   </tr>
 </table>
@@ -142,6 +147,26 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="48" height="48" alt="Cisco" />
       <br>Cisco
     </td>
+        <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Operating Systems
+    </td>
   </tr>
 </table>
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ungureancatalina&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ungureancatalina&layout=compact&theme=radical)
 
