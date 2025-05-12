@@ -78,7 +78,7 @@
       <br>Dart
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Assembly_language_icon.png" width="48" height="48" alt="Assembly" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Assembly_language_icon.png" width="48" height="48" alt="Assembly" />
       <br>Assembly
     </td>
   </tr>
@@ -92,7 +92,7 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="48" height="48" alt="SQL Server" />
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL Server" />
       <br>SQL Server
     </td>
     <td align="center" width="96">
@@ -165,8 +165,6 @@
 ---
 
 ## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ungureancatalina&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ungureancatalina&layout=compact&theme=radical)
 
