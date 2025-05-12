@@ -78,7 +78,7 @@
       <br>Dart
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Assembly_language_icon.png" width="48" height="48" alt="Assembly" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Assembly_language_icon.svg" width="48" height="48" alt="Assembly" />
       <br>Assembly
     </td>
   </tr>
@@ -114,7 +114,7 @@
       <br>QT
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/JavaFX_Logo.png" width="48" height="48" alt="JavaFX" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="JavaFX" />
       <br>JavaFX
     </td>
     <td align="center" width="96">
@@ -140,7 +140,7 @@
       <br>Postman
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="48" height="48" alt="Gradle" />
+      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="48" height="48" alt="Gradle" />
       <br>Gradle
     </td>
     <td align="center" width="96">
