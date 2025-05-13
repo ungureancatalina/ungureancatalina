@@ -77,10 +77,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
       <br>Dart
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Assembly_language_icon.svg" width="48" height="48" alt="Assembly" />
-      <br>Assembly
-    </td>
   </tr>
 </table>
 
