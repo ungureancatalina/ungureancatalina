@@ -1,4 +1,6 @@
-🌸 Below you can find some of the things I have worked on.
+<h2 align="center">🌸 Welcome to my coding garden 🌸</h2>
+
+<p align="center">Where ideas bloom into code ✨</p>
 
 - [Social Network](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_1/MAP/lab6fx)  
 
