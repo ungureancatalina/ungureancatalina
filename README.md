@@ -1,25 +1,12 @@
 <h2 align="center">🌸 Welcome to my coding garden 🌸</h2>
 
 <small>
-<div align="center">
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
-<div>
-  <a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_1/MAP/lab6fx">Social Network</a><br>
-  <a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/MPP">Moto Contest</a><br>
-  <a href="https://github.com/ungureancatalina/task_calendar">Task Calendar</a><br>
-  <a href="https://github.com/ungureancatalina/cute-projects">Mini Projects</a><br>
-</div>
-
-<div>
-  <a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/ISS/monitorizare_angajati">Employee's Tasks Tracker</a><br>
-  <a href="https://github.com/ungureancatalina/mood_tracker">Mood Tracker App</a><br>
-  <a href="https://github.com/ungureancatalina/applicant_processor">Processor of Applicants</a><br>
-  <a href="https://github.com/ungureancatalina/general-knowledge-quiz">General Knowledge Quiz</a><br>
-</div>
-
-</div>
-
-</div>
+|                                   |                                   |
+|-----------------------------------|-----------------------------------|
+| [Social Network](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_1/MAP/lab6fx) | [Employee's Tasks Tracker](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/ISS/monitorizare_angajati) |
+| [Moto Contest](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/MPP) | [Mood Tracker App](https://github.com/ungureancatalina/mood_tracker) |
+| [Task Calendar](https://github.com/ungureancatalina/task_calendar) | [Processor of Applicants](https://github.com/ungureancatalina/applicant_processor) |
+| [Mini Projects](https://github.com/ungureancatalina/cute-projects) | [General Knowledge Quiz](https://github.com/ungureancatalina/general-knowledge-quiz) |
 
 </small>
 
