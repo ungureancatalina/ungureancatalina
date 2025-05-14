@@ -3,7 +3,7 @@
 <small>
 
   **• [Social Network](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_1/MAP/lab6fx)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [Employee's Tasks Tracker](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/ISS/monitorizare_angajati)**  
-**• [Moto Contest](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/MPP)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [Mood Tracker App](https://github.com/ungureancatalina/mood_tracker)**  
+**• [Moto Contest](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/MPP)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [Mood Tracker App](https://github.com/ungureancatalina/mood_tracker)**  
 **• [Task Calendar](https://github.com/ungureancatalina/task_calendar)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [Processor of Applicants](https://github.com/ungureancatalina/applicant_processor)**  
 **• [Mini Projects](https://github.com/ungureancatalina/cute-projects)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [General Knowledge Quiz](https://github.com/ungureancatalina/general-knowledge-quiz)**  
 
