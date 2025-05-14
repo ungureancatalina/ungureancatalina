@@ -1,6 +1,6 @@
 <h2 align="center">🌸 Welcome to my coding garden 🌸</h2>
 
-<p align="center">Where ideas bloom into code ✨</p>
+<small>
 
 - [Social Network](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_1/MAP/lab6fx)  
 
@@ -16,12 +16,15 @@
 
 - [Mini Projects](https://github.com/ungureancatalina/cute-projects)  
   
-- [Final Project](https://github.com/ungureancatalina/atestat)  
+- [Final Project](https://github.com/ungureancatalina/atestat)
+
+</small>
 
 ---
 
 ### Languages:
 <table>
+  <small>
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
@@ -60,10 +63,12 @@
       <br>Dart
     </td>
   </tr>
+</small>
 </table>
 
 ### Databases:
 <table>
+  <small>
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
@@ -82,10 +87,12 @@
       <br>PostgreSQL
     </td>
   </tr>
+  </small>
 </table>
 
 ### UI Frameworks:
 <table>
+  <small>
   <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="48" height="48" alt="QT" />
@@ -112,10 +119,12 @@
       <br>Tailwind
     </td>
   </tr>
+  </small>
 </table>
 
 ### Other Tools:
 <table>
+  <small>
   <tr>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
@@ -138,6 +147,7 @@
       <br>Operating Systems
     </td>
   </tr>
+  </small>
 </table>
 
 ---
