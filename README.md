@@ -1,23 +1,24 @@
 <h2 align="center">🌸 Welcome to my coding garden 🌸</h2>
 
 <small>
-
-- [Social Network](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_1/MAP/lab6fx)  
-
-- [Employee's Tasks Tracker](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/ISS/monitorizare_angajati)  
-
-- [Moto Contest](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/MPP)  
-
-- [Mood Tracker App](https://github.com/ungureancatalina/mood_tracker)  
-
-- [Task Calendar](https://github.com/ungureancatalina/task_calendar)  
-
-- [Processor of Applicants](https://github.com/ungureancatalina/applicant_processor)  
-
-- [Mini Projects](https://github.com/ungureancatalina/cute-projects)  
-  
-- [Final Project](https://github.com/ungureancatalina/atestat)
-
+<table>
+  <tr>
+    <td><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_1/MAP/lab6fx">Social Network</a></td>
+    <td><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/ISS/monitorizare_angajati">Employee's Tasks Tracker</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/MPP">Moto Contest</a></td>
+    <td><a href="https://github.com/ungureancatalina/mood_tracker">Mood Tracker App</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ungureancatalina/task_calendar">Task Calendar</a></td>
+    <td><a href="https://github.com/ungureancatalina/applicant_processor">Processor of Applicants</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ungureancatalina/cute-projects">Mini Projects</a></td>
+    <td><a href="https://github.com/ungureancatalina/atestat"> General Knowledge Quiz</a></td>
+  </tr>
+</table>
 </small>
 
 ---
