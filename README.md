@@ -142,5 +142,6 @@
 ---
 
 ## GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ungureancatalina&layout=compact&theme=radical) 
 
 
