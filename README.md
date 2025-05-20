@@ -6,7 +6,7 @@
 **• [Moto Contest](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/MPP)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [Mood Tracker App](https://github.com/ungureancatalina/mood_tracker)**  
 **• [Task Calendar](https://github.com/ungureancatalina/task_calendar)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [Processor of Applicants](https://github.com/ungureancatalina/applicant_processor)**  
 **• [Mini Projects](https://github.com/ungureancatalina/cute-projects)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [General Knowledge Quiz](https://github.com/ungureancatalina/general-knowledge-quiz)**  
-• [Grade Calculator](https://github.com/ungureancatalina/grade_calculator) 
+**• [Grade Calculator](https://github.com/ungureancatalina/grade_calculator)**
 </small>
 
 ---
