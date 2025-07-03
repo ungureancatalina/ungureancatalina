@@ -4,14 +4,23 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Coding GIF" width="300" />
 </p>
 
-<small>
-
-  **• [Social Network](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_1/MAP/lab6fx)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [Employee's Tasks Tracker](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/ISS/monitorizare_angajati)**  
-**• [Moto Contest](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/MPP)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [Mood Tracker App](https://github.com/ungureancatalina/mood_tracker)**  
-**• [Task Calendar](https://github.com/ungureancatalina/task_calendar)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [Processor of Applicants](https://github.com/ungureancatalina/applicant_processor)**  
-**• [Mini Projects](https://github.com/ungureancatalina/cute-projects)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [General Knowledge Quiz](https://github.com/ungureancatalina/atestat)**  
-**• [Grade Calculator](https://github.com/ungureancatalina/grade_calculator)**
-</small>
+<div align="center">
+  <small>
+    <strong>• <a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_1/MAP/lab6fx">Social Network</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <strong>• <a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/ISS/monitorizare_angajati">Employee's Tasks Tracker</a></strong><br>
+    
+    <strong>• <a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/MPP">Moto Contest</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <strong>• <a href="https://github.com/ungureancatalina/mood_tracker">Mood Tracker App</a></strong><br>
+    
+    <strong>• <a href="https://github.com/ungureancatalina/task_calendar">Task Calendar</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <strong>• <a href="https://github.com/ungureancatalina/applicant_processor">Processor of Applicants</a></strong><br>
+    
+    <strong>• <a href="https://github.com/ungureancatalina/cute-projects">Mini Projects</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <strong>• <a href="https://github.com/ungureancatalina/atestat">General Knowledge Quiz</a></strong><br>
+    
+    <strong>• <a href="https://github.com/ungureancatalina/grade_calculator">Grade Calculator</a></strong>
+  </small>
+</div>
 
 ---
 
