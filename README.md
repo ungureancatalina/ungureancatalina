@@ -1,5 +1,9 @@
 <h2 align="center">🌸 Welcome to my coding garden 🌸</h2>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Coding GIF" width="300" />
+</p>
+
 <small>
 
   **• [Social Network](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_1/MAP/lab6fx)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [Employee's Tasks Tracker](https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/ISS/monitorizare_angajati)**  
@@ -8,10 +12,6 @@
 **• [Mini Projects](https://github.com/ungureancatalina/cute-projects)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• [General Knowledge Quiz](https://github.com/ungureancatalina/atestat)**  
 **• [Grade Calculator](https://github.com/ungureancatalina/grade_calculator)**
 </small>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Demo" width="300" height="300"/>
-</p>
 
 ---
 
