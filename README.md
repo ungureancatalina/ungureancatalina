@@ -4,10 +4,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Coding GIF" width="300" />
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/87ddb1e0-e286-4265-bb40-979b0efc1189/deploy-status)](https://app.netlify.com/projects/personalportofoliocatalina/deploys)
-
-
-
 <div align="center">
   <table>
     <tr>
