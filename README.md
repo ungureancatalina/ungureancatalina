@@ -27,7 +27,8 @@
       <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/AI/proiect">• Peri-implantitis Diagnosis </a></strong></small></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><small><strong><a href="https://github.com/ungureancatalina/personal_portofolio">• Personal Portofolio</a></strong></small></td>
+      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/personal_portofolio">• Personal Portofolio</a></strong></small></td>
+      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/CASualBot">• Insurance ChatBot</a></strong></small></td>
     </tr>
   </table>
 </div>
