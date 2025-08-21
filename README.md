@@ -9,29 +9,22 @@
     <tr>
       <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_1/MAP/lab6fx">• Social Network</a></strong></small></td>
       <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/ISS/monitorizare_angajati">• Employee's Tasks Tracker</a></strong></small></td>
-    </tr>
-    <tr>
       <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/MPP">• Moto Contest</a></strong></small></td>
-      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/mood_tracker">• Mood Tracker App</a></strong></small></td>
     </tr>
     <tr>
+      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/android-practica">• Practica Android</a></strong></small></td>
       <td align="center"><small><strong><a href="https://github.com/ungureancatalina/task_calendar">• Task Calendar</a></strong></small></td>
-      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/applicant_processor">• Processor of Applicants</a></strong></small></td>
-    </tr>
-    <tr>
-      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/cute-projects">• Mini Projects</a></strong></small></td>
-      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/atestat">• General Knowledge Quiz</a></strong></small></td>
-    </tr>
-    <tr>
       <td align="center"><small><strong><a href="https://github.com/ungureancatalina/grade_calculator">• Grade Calculator</a></strong></small></td>
-      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/AI/proiect">• Peri-implantitis Diagnosis </a></strong></small></td>
     </tr>
     <tr>
       <td align="center"><small><strong><a href="https://github.com/ungureancatalina/personal_portofolio">• Personal Portofolio</a></strong></small></td>
-      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/CASualBot">• Insurance ChatBot</a></strong></small></td>
+      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/mood_tracker">• Mood Tracker App</a></strong></small></td>
+      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/cute-projects">• Mini Projects</a></strong></small></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><small><strong><a href="https://github.com/ungureancatalina/android-practica">• Practica Android</a></strong></small></td>
+      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/AI/proiect">• Peri-implantitis Diagnosis </a></strong></small></td>
+      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/CASualBot">• Insurance ChatBot</a></strong></small></td>
+      <td align="center"><small><strong><a href="https://github.com/ungureancatalina/applicant_processor">• Processor of Applicants</a></strong></small></td>
     </tr>
   </table>
 </div>
