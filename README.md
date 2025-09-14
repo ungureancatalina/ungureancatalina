@@ -5,7 +5,7 @@
 </p>
 
 <details>
-  <summary> <b> Projects </b> </summary>  
+  <summary> <b> <big> Projects 👇 </big> </b> </summary>  
     <div align="center">
       <table>
         <tr>
@@ -35,7 +35,7 @@
 ---
 
 <details>
-  <summary> <b> Tools And Languages </b> </summary>  
+  <summary> <b> <big> Tools And Languages 👇 </big> </b> </summary>  
     <p align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" alt="Python"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" height="35" alt="C"/>
