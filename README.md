@@ -62,7 +62,5 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" height="35" alt="Postman"/>
   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="35" height="35" alt="Gradle"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="35" height="35" alt="Cisco"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35" height="35" alt="scikit-learn"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="35" height="35" alt="pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" height="35" alt="NumPy"/>
+  <img src="https://img.icons8.com/?size=512&id=23292&format=png" width="36" height="36" alt="AI"/>
 </p>
