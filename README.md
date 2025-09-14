@@ -69,4 +69,15 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="35" height="35" alt="Cisco"/>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="35" height="35" alt="AI"/>
     </p>
+</details> 
+
+---
+
+<details>
+  <summary> <b> <big> Stats 👇 </big> </b> </summary>  
+   <p align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ungureancatalina&show_icons=true&theme=radical&hide_rank=false" alt="Catalina's GitHub Stats"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ungureancatalina&layout=compact&theme=radical" alt="Top Languages"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ungureancatalina&theme=radical" alt="GitHub Streak"/>
+  </p>
 </details>
