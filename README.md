@@ -62,5 +62,5 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" height="35" alt="Postman"/>
   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="35" height="35" alt="Gradle"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="35" height="35" alt="Cisco"/>
-  <img src="https://img.icons8.com/?size=512&id=23292&format=png" width="36" height="36" alt="AI"/>
+  <img src="https://img.icons8.com/?size=512&id=23292&format=png](https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="35" height="35" alt="AI"/>
 </p>
