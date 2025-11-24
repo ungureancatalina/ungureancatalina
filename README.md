@@ -28,6 +28,9 @@
           <td align="center"><small><strong><a href="https://github.com/ungureancatalina/CASualBot">• Insurance ChatBot</a></strong></small></td>
           <td align="center"><small><strong><a href="https://github.com/ungureancatalina/applicant_processor">• Processor of Applicants</a></strong></small></td>
         </tr>
+        <tr>
+          <td align="center"><small><strong><a href="https://github.com/ungureancatalina/eudis_heckathon">• Defence Hackathon </a></strong></small></td>
+        </tr>
       </table>
     </div>
 </details>
