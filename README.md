@@ -30,6 +30,7 @@
         </tr>
         <tr>
           <td align="center"><small><strong><a href="https://github.com/ungureancatalina/eudis_heckathon">• Defence Hackathon </a></strong></small></td>
+          <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_3/SEM_1/PDM">• Book Tracker </a></strong></small></td>
         </tr>
       </table>
     </div>
