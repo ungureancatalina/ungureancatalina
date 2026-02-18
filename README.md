@@ -33,6 +33,9 @@
           <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_3/SEM_1/PDM">• Book Tracker </a></strong></small></td>
           <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_3/SEM_1/PPD/client_server">• Booking System </a></strong></small></td>
         </tr>
+         <tr>
+          <td align="center"><small><strong><a href="https://github.com/Zsoltrapolti/Java-Tech_Treck">• E-commerce </a></strong></small></td>
+        </tr>
       </table>
     </div>
 </details>
