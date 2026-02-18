@@ -21,19 +21,16 @@
         <tr>
           <td align="center"><small><strong><a href="https://github.com/ungureancatalina/personal_portofolio">• Personal Portofolio</a></strong></small></td>
           <td align="center"><small><strong><a href="https://github.com/ungureancatalina/mood_tracker">• Mood Tracker App</a></strong></small></td>
-          <td align="center"><small><strong><a href="https://github.com/ungureancatalina/cute-projects">• Mini Projects</a></strong></small></td>
+          <td align="center"><small><strong><a href="https://github.com/ungureancatalina/applicant_processor">• Processor of Applicants</a></strong></small></td>
         </tr>
         <tr>
           <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_2/SEM_2/AI/proiect">• Peri-implantitis Diagnosis </a></strong></small></td>
           <td align="center"><small><strong><a href="https://github.com/ungureancatalina/CASualBot">• Insurance ChatBot</a></strong></small></td>
-          <td align="center"><small><strong><a href="https://github.com/ungureancatalina/applicant_processor">• Processor of Applicants</a></strong></small></td>
+          <td align="center"><small><strong><a href="https://github.com/ungureancatalina/eudis_heckathon">• Defence Hackathon </a></strong></small></td>
         </tr>
         <tr>
-          <td align="center"><small><strong><a href="https://github.com/ungureancatalina/eudis_heckathon">• Defence Hackathon </a></strong></small></td>
           <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_3/SEM_1/PDM">• Book Tracker </a></strong></small></td>
           <td align="center"><small><strong><a href="https://github.com/ungureancatalina/UBB--FMI/tree/main/AN_3/SEM_1/PPD/client_server">• Booking System </a></strong></small></td>
-        </tr>
-         <tr>
           <td align="center"><small><strong><a href="https://github.com/Zsoltrapolti/Java-Tech_Treck">• E-commerce </a></strong></small></td>
         </tr>
       </table>
